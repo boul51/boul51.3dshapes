@@ -1,6 +1,6 @@
 include <openscad/pinheader.scad>
 
-pin_width  = 2.56;
+pin_width  = 2.54;
 pin_height = 10;
 pin_count  = 3;
 
